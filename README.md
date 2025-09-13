@@ -1,5 +1,6 @@
 
 ### 1. Algoritma sederhana dan Pseudocode
+```
 start
 input nilai akhir = (0.3 * Tugas) + (0.3 * UTS) + (0.4 * UAS)
 if nilai akhir >= 85
@@ -14,8 +15,8 @@ else
     print "Grade E"
 end
 end if
-
+```
 ### 2. Flowchart
-![NilaiAkhir](flowcart-riki.png
+![NilaiAkhir](flowcartRiki.png
 )
 ### 3. 4. 5. 
