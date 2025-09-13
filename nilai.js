@@ -35,6 +35,6 @@ for (let i = 0; i < mahasiswa.length; i++) {
   let grade = tentukanGrade(nilaiAkhir);
 
   console.log(
-    "Nilai akhir :"+nilaiAkhir.toFixed(2)+"|Grade :"+grade
+    "Nilai akhir :"+nilaiAkhir+"|Grade :"+grade
   );
 }
